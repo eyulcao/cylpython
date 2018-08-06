@@ -7,5 +7,5 @@ while True:
 # 判断start的值若其为51，则说明上一次已经输出了100，跳出循环
    if start==51:
      break
-   print start*2
+   print(start*2)
    start +=1
